@@ -2,7 +2,7 @@
 **A Korean Toxic Web Query Dataset**
 This repository contains projects and resources related to the paper:
 **“Ko-ToxicWebQ: A Korean Toxic Web Query Dataset”**
-Ko-ToxicWebQ is a large-scale dataset of real-world Korean web queries collected from [Microsoft Bing search logs](https://github.com/microsoft/MS-MARCO-Web-Search). The dataset supports research in toxic query detection, obfuscation robustness, and AI safety for web-based search applications.
+Ko-ToxicWebQ is a large-scale dataset of real-world Korean web queries collected from Microsoft Bing search logs[(MS-MARCO-Web-Search)](https://github.com/microsoft/MS-MARCO-Web-Search). The dataset supports research in toxic query detection, obfuscation robustness, and AI safety for web-based search applications.
 > ⚠️ Warning: This dataset contains toxic or offensive content. Please handle with care.
 ➡️ **The dataset is available at:**
 [here](https://huggingface.co/datasets/TEAMREBOOTT-AI/Ko-ToxicWebQ)
@@ -33,9 +33,7 @@ Toxicity categories follow Korean regulatory standards (e.g., KCSC):
 
 Queries may include multiple obfuscation strategies or none at all.
 
-## ⚖️ License
-This dataset is provided for **research purposes only**.
-Commercial use and redistribution are strictly prohibited.
+---
 
 ## 🧭 Ethics Statement
 We recognize that providing real examples of this content may be uncomfortable or distressing. These samples, however, are critical for developing robust detection systems that can mitigate harm and prevent the circulation of illicit content. We urge researchers to handle this dataset responsibly, with appropriate safeguards for user well-being.
