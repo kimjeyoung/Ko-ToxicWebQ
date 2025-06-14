@@ -39,3 +39,12 @@ Queries may include multiple obfuscation strategies or none at all.
 We recognize that providing real examples of this content may be uncomfortable or distressing. These samples, however, are critical for developing robust detection systems that can mitigate harm and prevent the circulation of illicit content. We urge researchers to handle this dataset responsibly, with appropriate safeguards for user well-being.
 
 Since conceptions of toxic or illegal content vary widely across jurisdictions, we emphasize that our annotations are grounded in South Korean laws and societal norms. We neither endorse nor condone the content found in these queries; our sole aim is to enable the development of more effective toxicity detection methods.
+
+---
+
+## License
+  
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+  
+Ko-ToxicWebQ is only for non-commercial use, and is released under <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>. By using Ko-ToxicWebQ, you agree to the terms in the license.
+
