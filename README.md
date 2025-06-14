@@ -6,7 +6,20 @@ Ko-ToxicWebQ is a large-scale dataset of real-world Korean web queries collected
 > ⚠️ Warning: This dataset contains toxic or offensive content. Please handle with care.
 ➡️ **The dataset is available at:**
 [here](https://huggingface.co/datasets/TEAMREBOOTT-AI/Ko-ToxicWebQ)
+
 ---
+
+## Quick Start with HuggingFace
+
+```python
+from datasets import load_dataset
+
+dataset = load_dataset("TEAMREBOOTT-AI/Ko-ToxicWebQ", token="hf_your_token")
+print(dataset["train"][0])
+```
+
+---
+
 ## 📦 Dataset Overview
 Ko-ToxicWebQ consists of **47,714** Korean web search queries sampled from Microsoft Bing logs. Each query is annotated with both a **toxicity category** and an **obfuscation type**.
 ### 🔎 Toxicity Categories (7)
