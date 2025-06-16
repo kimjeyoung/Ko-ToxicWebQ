@@ -36,9 +36,15 @@ Toxicity categories follow Korean regulatory:
 | Prostitution                   | Online sex solicitation, red-light district info, compensated dating(illegal under Anti-Sex Trade laws) | 59      | 0.1%    |
 | Gambling                       | Online sports betting, casino-style platforms, or any form of illegal gambling under Korean law | 40      | 0.1%    |
 
+--- 
+
+### Data Statistics
+
+![data_stat](imgs/data_statistics.png)
+
 ---
 
-### 🌀 Obfuscation Types (3)
+### 🌀 Obfuscation Statistics in Toxic Queries
 | Type                     | Description                                                                 | Ratio   |
 |--------------------------|-----------------------------------------------------------------------------|---------|
 | Abbreviation             | Shortened forms using consonants/vowels/partial words (non-English only)    | 23.0%   |
@@ -46,10 +52,6 @@ Toxicity categories follow Korean regulatory:
 | No Transformation        | Queries containing no obfuscation at all.                                   | 65.1%   |
 
 A single querie can include two obfuscation strategies, i.e., abbreviation (1), manipulation (1).
-
-### Data Statistics
-
-![data_stat](imgs/data_statistics.png)
 
 ---
 
